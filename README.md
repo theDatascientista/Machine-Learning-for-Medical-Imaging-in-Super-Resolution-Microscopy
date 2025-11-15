@@ -1,4 +1,4 @@
-# [Machine Learning: Micoscopy imaging PINN]
+# Machine Learning: Micoscopy imaging PINN
 
 ## Repository Link
 
