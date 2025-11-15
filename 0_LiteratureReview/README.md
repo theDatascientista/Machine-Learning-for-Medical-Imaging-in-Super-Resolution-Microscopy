@@ -4,17 +4,17 @@ Approaches or solutions that have been tried before on similar projects.
 
 **Summary of Each Work**:
 
-- **Source 1**: [Title of Source 1]
+- **Source 1**: [Physics-informed Machine Learning for Medical Image Analysis]
 
-  - **[Link]()**
+  - **[Link](https://dl.acm.org/doi/10.1145/3768158)**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
   - **Relation to the Project**:
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: [Untrained, physics-informed neural networks for structured illumination microscopy]
 
-  - **[Link]()**
+  - **[Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-5-8714)**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
