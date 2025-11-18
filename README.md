@@ -2,15 +2,15 @@
 
 ## Repository Link
 
-[https://github.com/theDatascientista/ML-Microscpy_imaging_PINN]
+https://github.com/theDatascientista/ML-Microscpy_imaging_PINN
 
 ## Description
 
-[The idea of this project was based on the publication "Untrained, physics-informed neural networks for structured illumination microscopy" by Zachary Burns and Zhaowei Liu to train a PINN for a better microscopy image processing solution, regarding quality improvement and automation.]
+The idea of this project was based on the publication "Untrained, physics-informed neural networks for structured illumination microscopy" by Zachary Burns and Zhaowei Liu to train a PINN for a better microscopy image processing solution, regarding quality improvement and automation.
 
 ### Task Type
 
-[Creation of a Physics-informed neural network for microscopy imaging, based on partial differential equations related to image processing.]
+Creation of a Physics-informed neural network for microscopy imaging, based on partial differential equations related to image processing.
 
 ### Results Summary
 
