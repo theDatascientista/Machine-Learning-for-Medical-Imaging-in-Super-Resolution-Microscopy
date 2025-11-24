@@ -20,10 +20,13 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**:
   - **Relation to the Project**:
 
-- **Source 3**: [Title of Source 3]
+- **Source 3**: [Manton JD. 2022 Answering
+some questions about structured illumination
+microscopy. Phil. Trans. R. Soc. A 380: 20210109.
+https://doi.org/10.1098/rsta.2021.0109]
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **[Link](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2021.0109)**
+  - **Objective**: The article provides a general introduction to the method of SIM including mathematical backgrounds, usages, problems, limitations, but also the application of Machine Learning.
+  - **Methods**: Machine Learning has been used to convert SIM images to higher resolution.
+  - **Outcomes**: No details.
+  - **Relation to the Project**: The article provides a basic understanding of SIM technology and how ML can be used in it.
