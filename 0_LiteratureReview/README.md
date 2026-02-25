@@ -22,10 +22,7 @@ on Image Processing, vol. 27, no. 9, 2018.]
   - **Outcomes**: The proposed PINN achieves resolution improvements matching theoretical expectations across multiple cell structures. The method eliminates the need for training datasets or extensive parameter tuning.
   - **Relation to the Project**: We used this method as starting point for our own research and the search for alternative methods.
 
-- **Source 3**: [Manton JD. 2022 Answering
-some questions about structured illumination
-microscopy. Phil. Trans. R. Soc. A 380: 20210109.
-https://doi.org/10.1098/rsta.2021.0109]
+- **Source 3**: [Manton JD.: Answering some questions about structured illumination microscopy, Phil. Trans. R. Soc. A 380: 20210109, 2022.]
 
   - **[Link](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2021.0109)**
   - **Objective**: The article provides a general introduction to the method of SIM including mathematical backgrounds, usages, problems, limitations, but also the application of Machine Learning.
