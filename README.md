@@ -1,6 +1,11 @@
 # Machine Learning for Medical Imaging in Super-Resolution Microscopy:
 # Approaches to Cytological Image Reconstruction and Enhancement
 
+Melissa Muszelewski, Johannes Münderlein, Cosima Birkmaier
+opencampus.sh
+Scientific Machine Learning
+Winter term 2025/2026
+
 ## Repository Link
 
 https://github.com/theDatascientista/ML-Microscpy_imaging_PINN
