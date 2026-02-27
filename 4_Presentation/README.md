@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](4_Presentation/Microscopy%20Imaging_ML.pdf)**
+**[Slides](Microscopy_Imaging_ML.pdf)**
