@@ -1,4 +1,4 @@
-# Machine Learning: Micoscopy imaging PINN
+# Machine Learning for Medical Imaging in Super-Resolution Microscopy: Approaches to Cytological Image Reconstruction and Enhancement
 
 ## Repository Link
 
