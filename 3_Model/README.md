@@ -1,3 +1,5 @@
-# Model Definition and Evaluation
+# Model Definition
 
-**[Notebook](model_definition_evaluation)**
+**[Frequency Domain](3_Model/FrequencyDomainModel)**
+
+**[Noise](Noise-model.ipynb)**
