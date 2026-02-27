@@ -14,6 +14,14 @@ Creation of a Physics-informed neural network for microscopy imaging, based on p
 
 ### Results Summary
 
+| Model                                    | Loss                       | Comments      |
+| :-------------                           | :-------------             | :-------------|
+| CNN                                      | MSE = 0.0054               | 1000 Epochs   |
+| Supervised                               | MSE = 0.ooo12              | 1500 Epochs   |
+| Frequency Domain                         |  Frequency Loss = 0.080636 |  30 Epochs    |
+| Frequency Domain (Combined with Spatial) |  Frequency Loss = 0.080636 | 111 Epochs    |
+
+
 #### Best Model Performance
 - **Best Model:** [Name and type of the best-performing model"]
 - **Evaluation Metric:** [Primary metric used, e.g., Accuracy, F1-Score, MSE, MAE]
@@ -33,10 +41,9 @@ Creation of a Physics-informed neural network for microscopy imaging, based on p
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
+2. **[Dataset Characteristics](1_DatasetCharacteristics/README.md)**
+3. **[Baseline Model](2_BaselineModel/baseline-CNN_model.ipynb)**
+4. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
 
